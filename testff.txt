@@ -3,3 +3,4 @@ one more move.
 Two more move.
 Four added by git.
 Five added by local.
+Six added by local.
