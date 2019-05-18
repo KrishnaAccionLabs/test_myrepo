@@ -4,3 +4,4 @@ Two more move.
 Four added by git.
 Five added by local.
 Six added by local.
+seven added by local.
